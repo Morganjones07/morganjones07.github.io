@@ -1,13 +1,13 @@
 body {
-	background-color: lightblue;
+	background-color: violet;
 }
 
 h1 {
-	font-family: verdana;
+	font-family: monaco;
 	font-size:  16px;
-	color: blue;
+	color: violet;
 	text-align: center;
-	border:  1px green;
+	border:  1px gray;
 	background-color:  #D3D3D3;
 	height:  30px;
 	border-radius:  10px;
@@ -20,12 +20,12 @@ h2 {
 }
 
 p {
-	font-family: verdana;
+	font-family: monaco;
 	font-size: 12px;
 }
 
 img {
-	border:  1px solid green;
+	border:  1px slate blue;
 	border-radius: 25px;
 	background: #73AD21;
 	padding: 20px;
